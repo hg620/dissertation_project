@@ -1,3 +1,4 @@
+#Python code used for choosing 500 representative sequences out of 4000
 import numpy as np
 from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.spatial.distance import squareform
